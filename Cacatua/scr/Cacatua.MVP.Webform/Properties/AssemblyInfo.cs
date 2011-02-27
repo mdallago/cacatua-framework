@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Cacatua.MVP.Webform")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Windows XP")]
+[assembly: AssemblyCompany("Cacatua")]
 [assembly: AssemblyProduct("Cacatua.MVP.Webform")]
-[assembly: AssemblyCopyright("Copyright © Windows XP 2011")]
+[assembly: AssemblyCopyright("Copyright © 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

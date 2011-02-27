@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pullmen.WebPortal.MVP")]
+[assembly: AssemblyTitle("Cacatua.MVP.Core")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Mario")]
-[assembly: AssemblyProduct("Pullmen.WebPortal.MVP")]
-[assembly: AssemblyCopyright("Copyright © Mario 2010")]
+[assembly: AssemblyCompany("Cacatua")]
+[assembly: AssemblyProduct("Cacatua.MVP.Core")]
+[assembly: AssemblyCopyright("Copyright © 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
