@@ -15,10 +15,5 @@
         {
             View = view;
         }
-
-        public virtual void InitView()
-        {
-            
-        }
     }
 }
