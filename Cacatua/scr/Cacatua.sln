@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cacatua.MVP.Core", "Cacatua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cacatua.MVP.Webform", "Cacatua.MVP.Webform\Cacatua.MVP.Webform.csproj", "{CA58F35F-FE98-45FD-9FD0-6BFB42DE2757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cacatua.MVP.Examples.Web", "..\examples\src\Cacatua.MVP.Examples.Web\Cacatua.MVP.Examples.Web.csproj", "{F2542A9D-D81C-415F-AB1E-E2DBB7A6C5AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5F7A6895-2CD2-40DB-9359-85B758AE663C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{2B5D7389-9D74-4CFB-B50E-319A91A588A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,8 +25,17 @@ Global
 		{CA58F35F-FE98-45FD-9FD0-6BFB42DE2757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA58F35F-FE98-45FD-9FD0-6BFB42DE2757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA58F35F-FE98-45FD-9FD0-6BFB42DE2757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2542A9D-D81C-415F-AB1E-E2DBB7A6C5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2542A9D-D81C-415F-AB1E-E2DBB7A6C5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2542A9D-D81C-415F-AB1E-E2DBB7A6C5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2542A9D-D81C-415F-AB1E-E2DBB7A6C5AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA58F35F-FE98-45FD-9FD0-6BFB42DE2757} = {5F7A6895-2CD2-40DB-9359-85B758AE663C}
+		{C807012A-106A-420A-A833-FD8A4FE62902} = {5F7A6895-2CD2-40DB-9359-85B758AE663C}
+		{F2542A9D-D81C-415F-AB1E-E2DBB7A6C5AB} = {2B5D7389-9D74-4CFB-B50E-319A91A588A3}
 	EndGlobalSection
 EndGlobal
